@@ -1,9 +1,9 @@
 ######################## default configuration ####################
-baseURL = "https://www.example.com"
-title = "Persian"
-theme = "persian"
-languageName = "En"
-languageCode = "en-us"
+baseURL = "https://marycreazioni.ml"
+title = "MaryCreazioni"
+theme = "marycreazioni"
+languageName = "It"
+languageCode = "it-it"
 # post pagination
 paginate = "5"
 # disqus short name
