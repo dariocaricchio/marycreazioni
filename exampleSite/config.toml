@@ -30,11 +30,11 @@ weight = 5
 [outputs]
 home = ["HTML", "RSS", "json"]
 [params]
-author = "Themefisher"
+author = "Dario Caricchio"
 contact_form_action = "#"
-copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
+copyright = "Designed & Developed By [Dario Caricchio](https://dariocaricchio.ml/)"
 description = "This is meta description"
-logo = "images/Mary_Creazioni_Cropped.gif"
+logo = "images/mary_creazioni_cropped.gif"
 search = true
 [params.cookies]
 enable = true
@@ -55,4 +55,4 @@ link = "plugins/search/mark.js"
 link = "plugins/search/search.js"
 [params.preloader]
 enable = true
-preloader = ""
+preloader = "images/mary_creazioni_cropped.gif"
