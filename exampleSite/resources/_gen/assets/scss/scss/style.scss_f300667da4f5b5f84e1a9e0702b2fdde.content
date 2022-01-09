@@ -125,7 +125,9 @@ body {
 
 img {
   vertical-align: middle;
-  border: 0; }
+  border: 0;
+  max-width: 100%;
+  height: auto; }
 
 a {
   color: inherit; }
