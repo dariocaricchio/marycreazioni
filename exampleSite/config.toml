@@ -1,3 +1,4 @@
+ignoreErrors = ["error-missing-instagram-accesstoken"]
 baseURL = "https://marycreazioni.ml"
 disqusShortname = "marycreazioni"
 languageCode = "it-it"
@@ -43,6 +44,8 @@ expire_days = 2
 link = "plugins/bootstrap/bootstrap.min.css"
 [[params.plugins.css]]
 link = "plugins/themify-icons/themify-icons.css"
+[[params.plugins.css]]
+link = "css/instafeed.css" # TODO: check
 [[params.plugins.js]]
 link = "plugins/jQuery/jquery.min.js"
 [[params.plugins.js]]
