@@ -45,7 +45,7 @@ link = "plugins/bootstrap/bootstrap.min.css"
 [[params.plugins.css]]
 link = "plugins/themify-icons/themify-icons.css"
 [[params.plugins.css]]
-link = "css/instafeed.css" # TODO: check
+link = "css/instafeed.css"
 [[params.plugins.js]]
 link = "plugins/jQuery/jquery.min.js"
 [[params.plugins.js]]
