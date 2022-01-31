@@ -16,18 +16,18 @@ weight = 1
 name = "About"
 url = "about"
 weight = 2
-[[menu.main]]
-name = "Category"
-url = "categories/nature/"
-weight = 3
+# [[menu.main]]
+# name = "Category"
+# url = "categories/nature/"
+# weight = 3
 [[menu.main]]
 name = "Contact"
 url = "contact"
 weight = 4
-[[menu.main]]
-name = "Privacy Policy"
-url = "privacy-policy"
-weight = 5
+# [[menu.main]]
+# name = "Privacy Policy"
+# url = "privacy-policy"
+# weight = 5
 [outputs]
 home = ["HTML", "RSS", "json"]
 [params]
@@ -36,7 +36,7 @@ contact_form_action = "#"
 copyright = "Designed & Developed By [Dario Caricchio](https://dariocaricchio.ml/)"
 description = "This is meta description"
 logo = "images/mary_creazioni_cropped.gif"
-search = true
+search = false # true
 [params.cookies]
 enable = true
 expire_days = 2
