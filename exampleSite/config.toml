@@ -33,7 +33,8 @@ home = ["HTML", "RSS", "json"]
 [params]
 author = "Dario Caricchio"
 contact_form_action = "#"
-copyright = "Designed & Developed By [Dario Caricchio](https://dariocaricchio.ml/)"
+copyright = """#### Copyright &copy; Mary Creazioni 2022
+##### Designed & Developed By [Dario Caricchio](https://dariocaricchio.ml/)"""
 description = "This is meta description"
 logo = "images/mary_creazioni_cropped.gif"
 search = false # true
