@@ -8,45 +8,63 @@ theme = "marycreazioni"
 title = "MaryCreazioni"
 [markup.goldmark.renderer]
 unsafe = true
+
+################################ menu ##################################
 [[menu.main]]
 name = "Home"
 url = "/"
 weight = 1
+
 [[menu.main]]
 name = "About"
 url = "about"
 weight = 2
+
 # [[menu.main]]
 # name = "Category"
 # url = "categories/nature/"
 # weight = 3
+
 [[menu.main]]
 name = "Contact"
 url = "contact"
 weight = 4
+
 # [[menu.main]]
 # name = "Privacy Policy"
 # url = "privacy-policy"
 # weight = 5
+
+############################# output ##############################
 [outputs]
 home = ["HTML", "RSS", "json"]
+
 [params]
 author = "Dario Caricchio"
-contact_form_action = "#"
+# contact form action
+contact_form_action = "mbjwopoo" # contact form works with https://formspree.io
+# copyright
 copyright = """#### Copyright &copy; Mary Creazioni 2022
 ##### Designed & Developed By [Dario Caricchio](https://dariocaricchio.ml/)"""
 description = "This is meta description"
 logo = "images/mary_creazioni_cropped.gif"
 search = false # true
+
+# cookies
 [params.cookies]
 enable = true
 expire_days = 2
+
+############################# Plugins ##############################
+# CSS Plugins
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
 [[params.plugins.css]]
 link = "plugins/themify-icons/themify-icons.css"
 [[params.plugins.css]]
 link = "css/instafeed.css"
+
+# JS Plugins
 [[params.plugins.js]]
 link = "plugins/jQuery/jquery.min.js"
 [[params.plugins.js]]
@@ -57,6 +75,8 @@ link = "plugins/search/fuse.min.js"
 link = "plugins/search/mark.js"
 [[params.plugins.js]]
 link = "plugins/search/search.js"
+
+# Preloader
 [params.preloader]
 enable = true
-preloader = "images/mary_creazioni_cropped.gif"
+preloader = "images/mary_creazioni_cropped.gif" # use jpg, png, svg or gif format.
