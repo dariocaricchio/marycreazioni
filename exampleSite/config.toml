@@ -42,7 +42,7 @@ home = ["HTML", "RSS", "json"]
 [params]
 author = "Dario Caricchio"
 # contact form action
-contact_form_action = "mbjwopoo" # contact form works with https://formspree.io
+contact_form_action = "https://formspree.io/f/mbjwopoo" # contact form works with https://formspree.io
 # copyright
 copyright = """#### Copyright &copy; Mary Creazioni 2022
 ##### Designed & Developed By [Dario Caricchio](https://dariocaricchio.ml/)"""
