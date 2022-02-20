@@ -1,51 +1,18 @@
 ---
-title: "I'm a Freelance Interactive Art Director Based In France. Focusing Accross Branding And Identity"
+title: "Mi chiamo Maria Teresa, ho 30 anni e sono calabrese."
 image: "images/author.jpg"
 description: "This is meta description."
 draft: false
 ---
 
-Un adulto creativo è un bambino sopravvissuto💫
+La creatività è la mia vita.
+Fin da piccola amo creare gioielli utilizzando varie tipologie di perline.
 
-Pagina Facebook: https://www.facebook.com/marycreazioni91/
+> "Un adulto creativo è un bambino sopravvissuto" 💫 <br>
+~ Ursula K. Le Guin
 
-Youtube: https://www.youtube.com/channel/UCYYy7mwiw1TXFBIiT67NUrA/about
+**Pagina Facebook**: https://www.facebook.com/marycreazioni91/
 
-Instagram: [@mary_creazioni91](https://www.instagram.com/mary_creazioni91)
+**Instagram**: [@mary_creazioni91](https://www.instagram.com/mary_creazioni91)
 
-E-mail: mary.creazioni91@gmail.com
-
-<br>
-<br>
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Condimentum in urna justo elit turpis risus vitae viverra enim. Augue quis vitae in non nisi, posuere ultrices tempus. Feugiat consequat suspendisse laoreet vitae enim adipiscing cursus. Duis nunc vitae tincidunt sed nibh id. Egestas erat consequat, ornare etiam donec faucibus. Lorem ut enim nunc, senectus adipiscing sed. Lobortis commodo aliquet pulvinar molestie faucibus diam. Semper porttitor justo, et dictum.
-
-<br>
-<br>
-
-## My Education
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Condimentum in urna justo elit turpis risus vitae viverra enim. Augue quis vitae in non nisi Massa cras odio ante cursus.
-
-* Et ipsum euismod et aenean duis.
-* Mate ipsum euismod nulla et diam.
-* Rio euismod nulla et aenean diam konta.
-
-<br>
-<br>
-
-## My Hobbies
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Condimentum in urna justo elit turpis risus vitae viverra enim. Augue quis vitae in non nisi Massa cras odio ante cursus.
-
-* Et ipsum euismod et aenean duis.
-* Mate ipsum euismod nulla et diam.
-* Rio euismod nulla et aenean diam konta.
-
-<br>
-<br>
-
-## My Experiences
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Condimentum in urna justo elit turpis risus vitae viverra enim. Augue quis vitae in non nisi Massa cras odio ante cursus.
-
-1. Et ipsum euismod et aenean duis.
-2. Mate ipsum euismod nulla et diam.
-3. Rio euismod nulla et aenean diam konta.
+**E-mail**: mary.creazioni91@gmail.com
