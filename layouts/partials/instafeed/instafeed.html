@@ -1,7 +1,7 @@
 <!-- Instagram feed section-->
 <section class="feed" id="instafeedsection">
 
-  {{ $dataJ := getJSON "https://profilepageimages.usecue.com/images/dariocaricchio/images.json" }}
+  {{ $dataJ := getJSON "https://profilepageimages.usecue.com/images/mary_creazioni91/images.json" }}
   <ul id="instafeed">
     {{ range first 20 $dataJ }}
     {{ $media_type := .media_type | lower }}

@@ -5,6 +5,19 @@ description: "This is meta description."
 draft: false
 ---
 
+Un adulto creativo è un bambino sopravvissuto💫
+
+Pagina Facebook: https://www.facebook.com/marycreazioni91/
+
+Youtube: https://www.youtube.com/channel/UCYYy7mwiw1TXFBIiT67NUrA/about
+
+Instagram: [@mary_creazioni91](https://www.instagram.com/mary_creazioni91)
+
+E-mail: mary.creazioni91@gmail.com
+
+<br>
+<br>
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Condimentum in urna justo elit turpis risus vitae viverra enim. Augue quis vitae in non nisi, posuere ultrices tempus. Feugiat consequat suspendisse laoreet vitae enim adipiscing cursus. Duis nunc vitae tincidunt sed nibh id. Egestas erat consequat, ornare etiam donec faucibus. Lorem ut enim nunc, senectus adipiscing sed. Lobortis commodo aliquet pulvinar molestie faucibus diam. Semper porttitor justo, et dictum.
 
 <br>
